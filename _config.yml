@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Your Name / Site under construction"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name LX"
+  name             : "website under construction LX"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
   location         : "Bloomington, Indiana"
-  employer         : "Indiana University Bloomington/University of Illinois Urbana-Champaign Champaign"
+  employer         : "Indiana University/UIUC"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "luyixing@iu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
