@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Luyi Xing / Site under construction"
+title                    : "Website under construction"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "luyixing/luyixing.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xing.jpg"
+  avatar           : "profile.png"
   name             : "working website: https://www.xing-luyi.com"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
