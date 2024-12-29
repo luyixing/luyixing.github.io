@@ -21,7 +21,7 @@ repository               : "luyixing/luyixing.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xing.jpg"
+  avatar           : "profile.png"
   name             : "website under construction LX"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
