@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xing-2018.jpg"
+  avatar           : "xing.jpg"
   name             : "website under construction LX"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor"
