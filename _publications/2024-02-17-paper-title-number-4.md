@@ -7,7 +7,15 @@ permalink: /publication/2024-02-17-paper-title-number-4
 date: 2025-02-01
 #venue: 'NDSS 2025'
 #paperurl: 'http://luyixing.github.io/files/paper3.pdf'
-#citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: '
+[36] NDSS '25 
+H. Wang, Y. Fang, Y. Liu, Z. Jin, E. Delph, X. Du, Q. Liu, L. Xing. "Hidden and Lost Control: on Security Design Risks in IoT User-Facing Matter Controller," NDSS 2025. (the first two authors are my students)[pdf](https://luyixing.github.io/publications/)
+
+[35] NDSS '25
+Y. Xiao, D. Kirat, D. Lee, J. Jang, L. Xing, X. Liao. "JBomAudit: Assessing the Landscape, Compliance, and Security Implications of Java SBOMs," NDSS 2025. (the first author is my student) [pdf](https://luyixing.github.io/publications/)
+
+[34] NDSS '25
+J. Yan, S. Liao, M, Aldeen, L. Xing, D. Yan, L, Cheng. "SKILLPoV: Towards Accessible and Effective Privacy Notice for Amazon Alexa Skills," NDSS 2025. [pdf](https://luyixing.github.io/publications/)'
 ---
 
 [36] NDSS '25 H. Wang, Y. Fang, Y. Liu, Z. Jin, E. Delph, X. Du, Q. Liu, L. Xing. "Hidden and Lost Control: on Security Design Risks in IoT User-Facing Matter Controller," NDSS 2025. (the first two authors are my students)[pdf]()
