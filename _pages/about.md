@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+This website is under construction.
+======
+
+The working website is https://www.xing-luyi.com/.
 
 I am an Associate Professor in the department of Computer Science at Indiana University Bloomington. I joined IU in 2018 after a few years' experience of building large commercial systems at Amazon/AWS. Now I'm directing the System Security Foundations lab at IU. I am a recipient of Outstanding Junior Faculty Award of Indiana University Bloomington (class of 2024), NSF CAREER award (2021, cloud-based IoT systems security), Facebook Research Award (2021, Privacy Enhancing Technologies), 5 Facebook Whitehat awards (2012, 2013, 2020, 2021), Google Developer Data Protection award (2019), Microsoft Whitehat award (2019), Android Security Acknowledgements (2013 - 2016, 2018), Apple Security Acknowledgement (2015, 2019, 2020), among others.
 
