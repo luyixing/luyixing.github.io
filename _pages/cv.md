@@ -48,4 +48,13 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-founder of Workshop on Security and Privacy in Standardized IoT co-located with NDSS '24, '25
+* o-founder of ACM Workshop on Secure and Trustworthy Superapps (SaTS) co-located with ACM CCS '23, '24
+* Privacy Enhancing Technologies Symposium (PETS), 2024
+* ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2021, 2022
+* ACM Conference on Computer and Communications Security (CCS), 2020
+* ACM Conference on Computer and Communications Security (CCS), 2019
+* ACM Conference on Computer and Communications Security (CCS), 2018
+* ACM Conference on Computer and Communications Security (CCS), 2017
+* Network and Distributed System Security Symposium (NDSS), 2021
+* Network and Distributed System Security Symposium (NDSS), 2020
