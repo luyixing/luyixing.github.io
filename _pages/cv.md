@@ -11,25 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Security, Indiana University Bloomington, 2018
-* B.S. in Security, Wuhan University, 2008
+* Ph.D in Security Informatics, Indiana University Bloomington, 2017
+* B.S. in Information Security, Wuhan University, 2008
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* since Summer 2024: Associate Professor
+  * Indiana University Bloomington
+  * Department of Computer Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018 ~ Summer 2024: Assistant Professor
+  * Indiana University Bloomington
+  * Department of Computer Science
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov. 2015 ~ June 2018: Software Development Engineer
+  * Amazon/AWS
 
 
 Publications
