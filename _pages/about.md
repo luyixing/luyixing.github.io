@@ -101,5 +101,5 @@ News
 - (7/1/15) Android/Google acknowledged our names on their Android Security Acknowledgements.
 - (10/24/14) Our attack paper on Android Push messaging will appear in CCS 2014.
 - (4/25/14) Got the third place in National Security Innovation Competition 2014 after competing with teams from 112 universities/organizations.
-- (3/20/14) Forbes.com, Yahoo and many other news agencies reported o﻿ur research on Android update vulnerabilities.
+- (3/20/14) Forbes.com, Yahoo and many other news agencies reported our research on Android update vulnerabilities.
 - (2/03/14) Our attack paper on Android OS update is accepted by IEEE Symposium on Security and Privacy 2014.
