@@ -12,13 +12,19 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+
+  - title: "Software"
+    url: /software/      
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Students"
+    url: /students/
+
+  - title: "Services"
+    url: /Services/  
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
