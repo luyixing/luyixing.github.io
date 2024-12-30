@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/blackhatasia2023
 venue: "Black Hat (Asia) 2023"
-date: 2012-05-11
+date: 2023-05-11
 location: "Sigapore"
 ---
 
