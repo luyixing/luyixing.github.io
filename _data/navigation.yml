@@ -20,8 +20,8 @@ main:
   - title: "Students"
     url: /students/
 
-  - title: "Services"
-    url: /Services/  
+  #- title: "Services"
+   # url: /Services/  
     
   - title: "CV"
     url: /cv/
