@@ -19,7 +19,7 @@ Research I led has significantly and extensively changed security design (access
 
 New PhD student
 ------
-I will admit one PhD student (**UIUC, Fall '25**) interested in both systems and AI.
+I will admit PhD students interested in both systems and AI.
 
 Research Areas & Interests:
 ======
