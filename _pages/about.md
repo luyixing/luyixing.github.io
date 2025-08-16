@@ -24,11 +24,13 @@ I will admit PhD students interested in both systems and AI.
 Research Areas & Interests:
 ======
 
+1. Agentic AI systems
 1. IoT/CPS systems
 1. Privacy violation and compliance
 1. AI security and AI for security/privacy
 1. iOS/Android/Web systems
 1. Cybercrime
+1. Technology Standards and Standardization
 
 News
 ======
