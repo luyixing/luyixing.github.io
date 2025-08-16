@@ -25,10 +25,10 @@ author:
   name             : "Associate Professor"
   pronouns         : # example: "she/her"  
   bio              : "Department of Computer Science"
-  location         : "Bloomington, Indiana"
-  employer         : "Indiana University/UIUC"
+  location         : "Champaign, IL, USA"
+  employer         : "UIUC"
   uri              : # URL
-  email            : "luyixing@iu.edu" 
+  email            : "lxing2@illinois.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
